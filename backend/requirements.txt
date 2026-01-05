@@ -4,3 +4,5 @@ Flask-JWT-Extended
 Flask-PyMongo
 numpy
 scikit-learn
+gunicorn
+python-dotenv
